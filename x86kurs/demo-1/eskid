@@ -1,0 +1,13 @@
+<+0>:	push   %ebp
+   0x0804841d <+1>:	mov    %esp,%ebp
+   0x0804841f <+3>:	sub    $0x8,%esp
+   0x08048422 <+6>:	movl   $0x14,-0x4(%ebp)
+   0x08048429 <+13>:	lea    -0x8(%ebp),%eax
+   0x0804842c <+16>:	add    $0x6,%eax
+   0x0804842f <+19>:	mov    %eax,-0x8(%ebp)
+   0x08048432 <+22>:	mov    -0x8(%ebp),%eax
+   0x08048435 <+25>:	mov    -0x4(%ebp),%edx
+   0x08048438 <+28>:	mov    %dl,(%eax)
+   0x0804843a <+30>:	addl   $0x14,-0x4(%ebp)
+   0x0804843e <+34>:	leave  
+   0x0804843f <+35>:	ret  
