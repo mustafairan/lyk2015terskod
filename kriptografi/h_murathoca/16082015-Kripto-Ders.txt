@@ -1,0 +1,48 @@
+++ Bugünkü dersimizde anlatılanları çalışmak
+ve soruları çözmek için Thunderbird 
+(Debian sürümü: icedove), eklenti olarak Enigmail ve gnupg 
+(gpg komudu. Linux larda ön yüklü gelir genelde.
+Kgpg, seahorse Linux üzerine kurulabilir) kurunuz. 
+
+++ Thunderbird kurulumundan sonra
+e-posta adresiniz için hesap yaratıp, POP3 veya IMAP (incoming-gelen-
+mail) ve Outgoing (SMTP) mail sunucu ayarlarını yapınız. 
+
+++ X.509 sertifikası edinmek, Firefox dan Thunderbird e yüklemek
+icin izleyen belgedeki basamakları izleyiniz:
+
+	E_posta-sertifika-2015.pdf
+
+++ İzleyen belgeyi inceleyiniz:  gnupg-openssl-ornekler.pdf
+
+++ PGP ve diğer konular için
+
+kripto-01062014.pdf ve CTIS496-PGP.pdf  dosyalarını inceleyebilirsiniz.
+
+++ İlk üç soruyu çözünüz ve diğer soruları inceleyiniz:
+Sorular-2015-kamp.pdf
+
+17-08-2015 dersinde izleyen sunu dosyasını kullanacağım:
+-----------------------------------------------------------
+
+	CTIS496-Spring14-Chp14-X509.pdf
+	kriptografik-protokoller.pdf
+	Web-Security.pdf
+	protocols_security-updated.pdf
+
+	Sage Matematik yazılımı için
+	----------------------------
+	39.pdf
+	yildirim_AB09.pdf
+	sagenb.org üzerinden sage matematik yazılımını çevrim içi kullanmayı deneyiniz.
+
+	++ "Cryptography and Network Security: Principles and Practice" 
+	kitabının sonunda yer alan projeler ve sage matematik örnekleri:
+
+	Stallings_Kitabindan.zip   
+
+++ Bitcoin, Tor projesi hakkında izleyen sayfadaki sunu dosyalarına göz 
+atabilirsiniz:
+	http://cihangir.forgottenlance.com/aks.htm 
+
+
