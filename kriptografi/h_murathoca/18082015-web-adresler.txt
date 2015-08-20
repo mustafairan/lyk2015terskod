@@ -1,0 +1,14 @@
+Cryptool 1 için sunu dosyası
+---------------------------------
+https://www.cryptool.org/images/ct1/presentations/CrypToolPresentation-en.pdf
+
+Tor için Slayt 21-36 arasını anlattıldı:
+"Anonymity Online,  Halil Kemal TAŞKIN sunum"
+------------------------------------------------------
+http://cihangir.forgottenlance.com/presentations/aks_hkt_anonymity_online.pdf
+
+TOR için diğer bir kaynak:
+https://www.cs.bham.ac.uk/internal/courses/intro-comp-sec/2015/Lectures/11_Protocols_SSLTOR/10_Protocols_III_6up.pdf
+
+
+
